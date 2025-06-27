@@ -5,6 +5,7 @@ A data pipeline for processing and analyzing satellite constellation telemetry u
 - **Apache Spark** for distributed processing
 - **Airflow** for workflow orchestration
 - **MinIO** for object storage
+
 (for testing and validation purposes only)
 
 ## Telemetry structure
